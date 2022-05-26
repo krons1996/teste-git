@@ -1,0 +1,23 @@
+{
+  "name": "teste-git",
+  "version": "1.0.0",
+  "description": "teste",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --passWithNoTests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krons1996/teste-git.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krons1996/teste-git/issues"
+  },
+  "homepage": "https://github.com/krons1996/teste-git#readme",
+  "dependencies": {
+    "node": "^17.7.2"
+  }
+}
